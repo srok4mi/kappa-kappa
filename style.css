@@ -5,4 +5,9 @@ title {
 body{
     background-color: black;
 }
- 
+ p{
+color: limegreen;
+font-family: arial;
+font-size: medium;
+background: fixed;
+ }
