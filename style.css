@@ -5,11 +5,13 @@ title {
 body{
     background-color: black;
 }
+
 h1{
  color: rgb(7, 78, 7);
-font-family:Cambria;
+font-family:Tahoma;
 background: fixed;
 }
+
  p{
 color: limegreen;
 font-family: arial;
