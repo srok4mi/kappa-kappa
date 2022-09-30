@@ -3,10 +3,11 @@ body{
 }
 
 h1{
- color: rgb(7, 78, 7);
+ color: rgb(9, 129, 9);
 font-size: 70px;
 background: fixed;
 text-align: center;
+background-color:aqua ;
 }
 
  p{
