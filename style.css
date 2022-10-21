@@ -17,4 +17,6 @@ font-size:30px;
 background: fixed;
  }
 
- 
+ #bufos {
+    width: 100%;
+}
